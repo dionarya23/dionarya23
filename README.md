@@ -1,4 +1,4 @@
-## Hi 👋, I'm Dion 
+## Hi 👋
 
 - 🌱 I'm currently learning nodejs, javascript, typescript, flutter, dart
 - 📍 Bandung, Indonesia

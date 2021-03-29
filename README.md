@@ -6,8 +6,6 @@ I am a Backend Developer. I am passionate about technologies.
 
 ## ⚡ Tech Stack
 
-Here are a few things I've picked up along my learning journey.
-
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Golang](https://img.shields.io/badge/Golang-00AED8?style=for-the-badge&logo=go&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
   

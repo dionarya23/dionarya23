@@ -9,9 +9,4 @@ I am a Backend Developer. I am passionate about technologies.
 
 
 my e-[mail](mailto:dionarya.p@gmail.com) .
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dionarya23/dionarya23)
-
-
  
